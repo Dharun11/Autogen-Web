@@ -1,0 +1,6 @@
+autogen-agentchat~=0.2
+python-dotenv
+streamlit
+bs4
+groq
+
