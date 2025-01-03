@@ -7,6 +7,14 @@ This project analyzes and classifies web content, determining whether it is spam
 - Python 3.8 or higher
 - Virtual environment (recommended)
 
+![Project Overview](assets/image.png)
+## Tech Stack
+
+- **Python**: The main programming language used for the project.
+- **Streamlit**: Used for building the web interface.
+- **Logging**: For logging information and errors.
+
+
 ## Installation
 
 1. Clone the repository:
@@ -53,6 +61,3 @@ This project analyzes and classifies web content, determining whether it is spam
 - [requirements.txt](http://_vscodecontentref_/10): Lists the dependencies required for the project.
 - [sample.py](http://_vscodecontentref_/11): Sample script demonstrating the usage of agents for content analysis.
 
-## License
-
-This project is licensed under the MIT License.
