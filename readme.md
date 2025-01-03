@@ -13,7 +13,7 @@ This project analyzes and classifies web content, determining whether it is spam
 - **Python**: The main programming language used for the project.
 - **Streamlit**: Used for building the web interface.
 - **Logging**: For logging information and errors.
--**Autogen**: Multiagent Framework for orchestration of agents
+- **Autogen**: Multiagent Framework for orchestration of agents.
 
 
 ## Installation
