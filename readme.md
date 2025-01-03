@@ -11,8 +11,8 @@ This project analyzes and classifies web content, determining whether it is spam
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Dharun11/Autogen-Web.git
+    cd AUTOGEN
     ```
 
 2. Create and activate a virtual environment:
@@ -46,9 +46,6 @@ This project analyzes and classifies web content, determining whether it is spam
 
 ## Project Structure
 
-- [groupchat](http://_vscodecontentref_/3): Contains scripts for URL and content analysis.
-    - [url_analyzer.py](http://_vscodecontentref_/4): Analyzes the structure of a URL.
-    - [content_analyzer.py](http://_vscodecontentref_/5): Analyzes the content of a webpage.
 - [logs](http://_vscodecontentref_/6): Contains log files generated during the execution.
 - [src](http://_vscodecontentref_/7): Contains the main application and exception handling.
     - [main.py](http://_vscodecontentref_/8): Main script to run the Streamlit app.
